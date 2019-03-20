@@ -6,7 +6,7 @@ In order for the build to succeed, I had to kill OrderPop.java.
 
 Build instructions:
 
-1. Netbeans specific packages are used, so either use Netbeans or find a to add the Netbeans packages to this project
+1. Netbeans specific packages are used, so either use Netbeans or find a way to add the Netbeans packages to this project
 
 2. Within Netbeans, add the Kotlin plugin
 
